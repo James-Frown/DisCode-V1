@@ -95,7 +95,7 @@ export const EditServerModal = () => {
             🔧 Edit Your Server 💻
           </DialogTitle>
           <DialogDescription className="text-center text-zinc-600">
-            Tailor Your Server's Identity, Modify Server Name and Image to Suit
+            Tailor Your Servers Identity, Modify Server Name and Image to Suit
             Your Preferences!
           </DialogDescription>
         </DialogHeader>
